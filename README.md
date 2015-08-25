@@ -1,0 +1,2 @@
+# -need-help
+It is necessary to implement the C # implementation of java scripts eg the transition to the page carried java scripts as well as in the browser. and what it was all for the idea of multithreaded dll that need to plug ёё doing het request standard means to the site and this dll performs the necessary scripts and wrote the document. Multithreading is needed and what would each thread has its own session and cookies, and cookies are not shared
